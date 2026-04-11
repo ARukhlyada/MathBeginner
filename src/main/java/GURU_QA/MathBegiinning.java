@@ -31,7 +31,7 @@ public class MathBegiinning {
         System.out.println("score <= 100: " + (score <= 100));
         System.out.println("score == 85: " + (score == 85));
         System.out.println("score == 85: " + (score <= 85));
-        System.out.println("score == 85: " + (score => 85));
+        System.out.println("score == 85: " + (score >= 85));
         System.out.println("score != 0: " + (score != 0) + "\n");
 
         // Диапазоны
