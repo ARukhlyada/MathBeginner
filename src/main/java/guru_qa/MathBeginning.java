@@ -1,6 +1,6 @@
-package GURU_QA;
+package guru_qa;
 
-public class MathBegiinning {
+public class MathBeginning {
     public static void main(String[] args) {
         System.out.println("======= Java Basics для автотестировщика =======\n");
 
